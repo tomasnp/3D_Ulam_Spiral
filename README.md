@@ -11,6 +11,9 @@ The difference between the two pyramids lies in the formation of each floor, wit
 
 
 
+![alt text](pyramidA.png)
+![alt text](pyramidB.png)
+
 
 ## Tools
 - Control the speed and axis of rotation (arrows keys)
