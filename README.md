@@ -3,7 +3,7 @@
 ![alt text](ulam1.png)
 ![alt text](ulam.png)
 
-3D Ulam Spiral is an academic project in Processing at the University of Paris-Saclay. 
+**3D Ulam Spiral is an academic project in Processing at the University of Paris-Saclay.**
 
 ## Subject
 We have created pyramids and a cube with the Ulam spiral composed of cubes containing a number on a colour according to its characterisation (prime, perfect, abundant, deficient). Also, the increment of each shape can be controlled by the user as a polynomial. Finally, the shapes have rotations whose speeds can be controlled by the user.
