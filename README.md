@@ -3,15 +3,19 @@
 ![alt text](ulam1.png)
 ![alt text](ulam.png)
 
-3D Ulam Spiral is an academic project at the University of Paris-Saclay. realized in [Processing](https://processing.org), which aims at representing in 3D the distribution of prime, deficit, perfect and abundant numbers.
+3D Ulam Spiral is an academic project in Processing at the University of Paris-Saclay. 
 
-Two geometric models, a pyramid and a cube, are composed of subcubes associated with a number *n*. The values of the subcubes are the images by the second degree polynomial associated to the models.
+We have created pyramids and a cube with the Ulam spiral composed of cubes containing a number on a colour according to its characterisation (prime, perfect, abundant, deficient). Also, the increment of each shape can be controlled by the user as a polynomial. Finally, the shapes have rotations whose speeds can be controlled by the user.
 
-## Functionalities
-To make it easier to view the models, it is possible to :
-- Control the speed and axis of rotation
+The difference between the two pyramids lies in the formation of each floor, with the first floor having a base of 1-8 (see a ) and the second floor having a base of 1-4 (see b ).
+
+
+
+
+## Tools
+- Control the speed and axis of rotation (arrows keys)
 - Manually control the vue with the mouse (click and drag)
-- Change the coefficients of the second degree polynomials
+- Change the coefficients of the second degree polynomials (keys letters)
 
 
 
